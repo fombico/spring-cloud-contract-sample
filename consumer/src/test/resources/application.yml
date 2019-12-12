@@ -1,0 +1,4 @@
+stubrunner:
+  ids: 'com.fombico:producer'
+  stubs-mode: local
+
